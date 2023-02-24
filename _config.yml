@@ -105,10 +105,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr Joanna Sadler"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Programme Founder and Director"
-  location         : "University of Edinburgh"
+  name             : 
+  avatar           : "/docs/LiS logo.png"
+  bio              : 
+  location         : 
   email            :
   links:
     - label: "Email"

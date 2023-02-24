@@ -19,9 +19,9 @@ layout                   : splash
 locale                   : "en-US"
 title                    : "Leaders in Science"
 title_separator          : "-"
-subtitle                 : "Science for the Next Generation" # site tagline that appears below site title in masthead
+subtitle                 : "A STEM Outreach Programme for Schools" # site tagline that appears below site title in masthead
 name                     : 
-description              : "A STEM outreach programme for schools"
+description              : "Leaders in Science: A STEM outreach programme for schools"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -157,6 +157,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _data
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

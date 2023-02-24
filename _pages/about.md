@@ -1,0 +1,37 @@
+---
+permalink: /
+title: "Leaders in Science"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+Leaders in Science info
+
+---
+
+**Research**
+
+*New tools for plastic upcycling*  
+<img src="https://user-images.githubusercontent.com/93720728/200817740-06133b21-6517-4403-b244-941c5c290da5.png" align="left" width="150px" style="float:left; padding-right:10px"/>  
+<span style="font-size:15px">
+Plastic upcycling offers tackles the plastic waste crisis whilst offering sustainable routes to chemicals currently produced from fossil fuels. We are expanding the scope of this emerging field by discovering new proteins and biocompatible chemistries that can be integrated into upcycling pathways, accessing more chemical space from waste feedstocks.
+</span>
+
+---
+
+*Building pathways to value-added products*  
+  
+<img src="https://user-images.githubusercontent.com/93720728/200817777-9cc8336f-a2a7-425a-8c28-218fd479fce7.png" align="left" width="150px" style="float:left; padding-right:10px"/>
+<span style="font-size:15px"> We have demonstrated successful conversion of a plastic bottle into the flavour molecule vanillin. We're now excited to build on this and develop a range of new pathways to access high value chemicals using engineered microbes.
+<span>
+  
+  ---
+
+*Efficient feedstock degradation*  
+<img src="https://user-images.githubusercontent.com/93720728/200817796-d85219c1-d805-4df5-ac27-4c6f49dbbc16.png" align="left" width="150px" style="float:left; padding-right:10px"/>  
+  <span style="font-size:15px">
+We are exploring novel approaches for polymer degradation which can be interfaced directly with upcycling pathways.
+    <span>

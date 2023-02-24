@@ -15,6 +15,7 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
+layout                   : splash
 locale                   : "en-US"
 title                    : "Leaders in Science"
 title_separator          : "-"

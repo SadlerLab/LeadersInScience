@@ -2,12 +2,15 @@
 main:
   - title: "About Leaders in Science"
     url: /about/
+    
+  - title: "Blog"
+    url: /blog/
 
   - title: "Resources"
-    url: /news/
+    url: /resources/
     
   - title: "Testimonials"
-    url: /people/       
+    url: /testimonials/       
            
   - title: "Contact"
     url: /contact/

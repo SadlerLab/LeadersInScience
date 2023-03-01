@@ -1,5 +1,5 @@
 ---
-permalink: /LeadersInScience/about/
+permalink: /about/
 title: "Leaders in Science"
 excerpt: "About me"
 author_profile: true

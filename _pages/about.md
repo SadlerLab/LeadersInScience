@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "Leaders in Science"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +9,7 @@ layout: default
 
 ---
 
-<center><b>Leaders in Science (LiS) is an outreach programme for schools designed to engage more young people in science whilst developing leadership, communication and presentation skills<b/b></center>
+**Leaders in Science (LiS) is an outreach programme for schools designed to engage more young people in science whilst developing leadership, communication and presentation skills**
 
 Communicating science is difficult. Every day as scientists, we are working with concepts and ideas that can seem intangible to the wider public, yet relaying the significance and motivation behind what we do is critical to inspiring the next generation of scientists - desperately needed to address some of planet's most pressing issues. And it is almost impossible if we don't fully understand a subject ourselves.
 

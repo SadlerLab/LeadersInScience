@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 layout: archive 
 
+---
 {% include base_path %}
 ---
 

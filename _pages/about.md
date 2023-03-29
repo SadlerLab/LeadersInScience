@@ -3,14 +3,12 @@ permalink: /about/
 title: "Leaders in Science"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /about
   - /about.html
 layout: archive
 
 ---
-
 {% include base_path %}
-
 ---
 
 **Leaders in Science (LiS) is an outreach programme for schools designed to engage more young people in science whilst developing leadership, communication and presentation skills**
